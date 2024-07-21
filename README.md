@@ -56,11 +56,11 @@ npm run build
 This will generate optimized static files in the build directory, ready to be deployed.
 
 ## Technologies Used
- React: JavaScript library for building user interfaces.
- EmailJS: Service for sending emails directly from the client-side.
- Node.js: JavaScript runtime for server-side development.
- HTML5 & CSS3: Markup and styling for the web pages.
- JavaScript: Programming language for implementing functionality.
+** React: JavaScript library for building user interfaces.
+** EmailJS: Service for sending emails directly from the client-side.
+** Node.js: JavaScript runtime for server-side development.
+**HTML5 & CSS3: Markup and styling for the web pages.
+**JavaScript: Programming language for implementing functionality.
 ## Contact
 Feel free to reach out to me through any of the following platforms:
 
