@@ -30,7 +30,7 @@ To run this project locally, follow these steps:
 1. **Clone the repository:**
 
    ```sh
-   git clonehttps://github.com/ABISHEKBALANCE/portfolio-V2.git
+   git clone https://github.com/ABISHEKBALANCE/portfolio-V2.git
 Navigate to the project directory:
 
 
