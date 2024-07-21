@@ -40,7 +40,7 @@ Install the dependencies:
   ```
 npm install
  ```
-Usage
+## Usage
 To start the development server:
  ```
 npm start
@@ -55,7 +55,7 @@ npm run build
  ```
 This will generate optimized static files in the build directory, ready to be deployed.
 
-Technologies Used
+## Technologies Used
 React: JavaScript library for building user interfaces.
 EmailJS: Service for sending emails directly from the client-side.
 Node.js: JavaScript runtime for server-side development.
@@ -65,5 +65,5 @@ Contact
 Feel free to reach out to me through any of the following platforms:
 
 
-License
+## License
 This project is licensed under the MIT License. See the LICENSE file for details.
