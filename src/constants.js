@@ -25,18 +25,29 @@ export const name = "ABISHEK RAJ A P";
 
 export const experiences = [
     {
-        company: "NIELIT",
-        role: "AI Intern",
-        duration: "May 2024 - July 2024",
-        logo: "https://akm-img-a-in.tosshub.com/aajtak/images/story/201506/logo_650_062915055832.jpg?size=1200:675",
+        company: "CodeJet",
+        role: "Software Engineer (Intern)",
+        duration: "Nov 2023 – May 2024",
+        logo: "https://html.scribdassets.com/3l3hwcn01scxypar/images/1-3f34c4be67.png", 
         points: [
-            "Worked on developing machine learning models to solve real-world problems using Python.",
-            "Explored the use of AI in healthcare, building predictive models for patient readmission.",
-            "Gained hands-on experience with TensorFlow and scikit-learn for model development.",
-            "Collaborated with cross-functional teams to integrate AI solutions into existing systems.",
-            "Developed a dashboard to visualize AI model performance using Power BI."
+            "Engineered PhishTor, a phishing detection MVP with heuristic algorithms, achieving 95% detection accuracy across 1,000+ phishing scenarios.",
+            "Designed prototypes for enterprise-scale deployments with integrated ML capabilities.",
+            "Developed and launched a QR Scanner Edge extension, improving QR code handling workflows. Garnered 1,000+ downloads and increased user productivity across diverse platforms.",
+            "Optimized backend APIs using Node.js, reducing query response times by 20% through caching layers and workflow optimizations.",
+            "Led technical mentorship for 80+ participants during a coding bootcamp, focusing on secure development practices and scalable architecture.",
         ],
-        url: "https://nielit.gov.in/",
+    },
+    {
+        company: "Nanlogical Consultancy Services",
+        role: "Web Development Intern",
+        duration: "Jun 2024 – Jul 2024",
+        logo: "https://www.nanlogical.com/assets/images/logo.png", 
+        points: [
+            "Designed and deployed a responsive React.js dashboard, reducing page load times by 15% through lazy loading and compression techniques.",
+            "Optimized MongoDB queries using indexing and aggregation pipelines, achieving 20% faster data retrieval during high-traffic simulations.",
+            "Developed secure RESTful APIs, ensuring cross-browser compatibility (Chrome, Edge, Firefox) and high performance in multi-tiered architectures.",
+        ],
+        url: "https://nanlogical.com/", 
     },
     {
         company: "APJ Dream Tech",
@@ -64,19 +75,6 @@ export const experiences = [
             "Conducted code reviews and provided constructive feedback to improve code quality and maintainability.",
         ],
         url: "https://smartknower.com/",
-    },
-    {
-        company: "Coding Raja",
-        role: "Data Science Intern",
-        duration: "July 2023 - December 2023",
-        logo: "https://media.licdn.com/dms/image/v2/D560BAQEzduETSZNgdA/company-logo_200_200/company-logo_200_200/0/1693382243519/codingraja_logo?e=1736985600&v=beta&t=IUDSKJkjLMPcSTYofIaEOcK2zlwlv7iT3n4WKDPRNWk",
-        points: [
-            "Gained hands-on experience in data science techniques and analysis methodologies.",
-            "Worked on data cleaning, processing, and analysis using Python and R.",
-            "Developed machine learning models to solve real-world problems.",
-            "Collaborated with a team of data scientists to deliver high-quality projects.",
-        ],
-        url: "https://codingraja.com/",
     },
     {
         company: "JPMorgan Chase & Co.",
