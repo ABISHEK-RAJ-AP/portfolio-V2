@@ -1,3 +1,10 @@
+import React from 'react';
+import '../App.css';
+import { services } from '../constants';
+import ButtonLink from './ButtonLink';
+import Footer from './Footer';
+
+
 const About = () => {
   return (
     <div>
