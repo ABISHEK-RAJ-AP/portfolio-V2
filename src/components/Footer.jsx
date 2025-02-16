@@ -3,7 +3,6 @@ import { AiFillLinkedin, AiFillMediumCircle } from 'react-icons/ai';
 import { FaGithub, FaTwitter } from 'react-icons/fa';
 import { FiMail } from 'react-icons/fi';
 
-
 const Footer = () => {
 	const year = new Date().getFullYear();
 
@@ -22,7 +21,7 @@ const Footer = () => {
 					<a href="https://www.linkedin.com/in/apabishekraj/" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
 						<AiFillLinkedin className='text-xl' />
 					</a>
-					<a href="https://github.com/ABISHEKBALANCE" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }} >
+					<a href="https://github.com/abishek-raj-ap" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }} >
 						<FaGithub className='text-xl' />
 					</a>
 					<a href="https://medium.com/@apabishekraj" target='_blank' className='transition ease-in-out duration-300 rounded-md hover:scale-110 cursor-pointer hover:-translate-y-1' style={{ cursor: 'pointer' }}>
