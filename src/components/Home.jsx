@@ -37,10 +37,11 @@ const Home = () => {
             Hi, I'm <span className='text-yellow-200 font-extrabold'>{text}</span>
           </h1>
           <p className='mt-6 text-xl leading-relaxed max-w-2xl mx-auto'>
-            Passionate about learning, building scalable web applications, dashboards, and AI-driven solutions.
+            Software Engineer | Backend & AI Developer | Building Scalable & Intelligent Systems
           </p>
           <p className='mt-3 text-lg text-gray-400 leading-relaxed max-w-2xl mx-auto'>
-            Currently exploring new technologies and open-source projects to expand my knowledge.
+            Passionate about architecting high-performance applications, optimizing backend workflows, and integrating AI-driven automation.  
+            Currently enhancing large-scale infrastructure at C-DAC Delhi and innovating with open-source communities.
           </p>
         </div>
 
